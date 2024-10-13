@@ -63,9 +63,9 @@ Clase que representa una conversión exitosa. Contiene los detalles de la conver
 
 1. **Clonar el repositorio**:
    git clone https://github.com/EpziTecho/Exchange_Challenge_Alura.git.
-2.**Compilar el proyecto (Asegúrate de tener la librería `gson` en tu classpath)**:.
-javac -cp gson-2.8.8.jar:. *.java.
-3.**Ejecutar el programa**:.
+2. **Compilar el proyecto (Asegúrate de tener la librería `gson` en tu classpath)**:.
+   javac -cp gson-2.8.8.jar:. *.java.
+3. **Ejecutar el programa**:.
    java -cp gson-2.8.8.jar:. Principal.
 
 
