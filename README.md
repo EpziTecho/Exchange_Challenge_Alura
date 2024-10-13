@@ -57,3 +57,17 @@ Clase que representa una conversión exitosa. Contiene los detalles de la conver
 4. **Manejo de Errores**: Si el usuario ingresa un valor no válido (por ejemplo, texto en lugar de números), el error se captura y se almacena en el archivo `errores.json` con detalles de la entrada incorrecta y el mensaje de error.
 
 5. **Almacenamiento**: Los errores y las conversiones se almacenan en archivos JSON para su consulta posterior, y se cargan automáticamente al inicio del programa para no perder registros.
+
+
+## Ejecución del Programa
+
+1. **Clonar el repositorio**:
+   git clone https://github.com/EpziTecho/Exchange_Challenge_Alura.git
+2.**Compilar el proyecto (Asegúrate de tener la librería `gson` en tu classpath)**:
+javac -cp gson-2.8.8.jar:. *.java
+3.**Ejecutar el programa**:
+   java -cp gson-2.8.8.jar:. Principal
+
+
+
+   
