@@ -1,0 +1,22 @@
+[
+  {
+    "errorMessage": "Error de conversión. Solo se permiten números decimales.",
+    "userInput": "fghfgh",
+    "timestamp": "2024-10-13 01:03:08"
+  },
+  {
+    "errorMessage": "Entrada no válida en el menú. Solo se permiten números enteros.",
+    "userInput": "hghjfg",
+    "timestamp": "2024-10-13 01:03:09"
+  },
+  {
+    "errorMessage": "Entrada no válida en el menú. Solo se permiten números enteros.",
+    "userInput": "67.90",
+    "timestamp": "2024-10-13 01:03:12"
+  },
+  {
+    "errorMessage": "Entrada no válida en el menú. Solo se permiten números enteros.",
+    "userInput": "nhgj",
+    "timestamp": "2024-10-13 01:03:26"
+  }
+]

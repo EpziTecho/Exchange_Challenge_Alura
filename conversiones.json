@@ -1,0 +1,16 @@
+[
+  {
+    "monedaOrigen": "USD",
+    "monedaDestino": "ARS",
+    "valorConvertido": 24485.5,
+    "tasaCambio": 979.42,
+    "timestamp": "2024-10-13 01:03:03"
+  },
+  {
+    "monedaOrigen": "ARS",
+    "monedaDestino": "USD",
+    "valorConvertido": 24.9996955,
+    "tasaCambio": 0.001021,
+    "timestamp": "2024-10-13 01:03:21"
+  }
+]
